@@ -4,5 +4,15 @@
   "main": "index.js",
   "repository": "https://github.com/isacssw/FinAPI.git",
   "author": "Isac X <isacssw@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
