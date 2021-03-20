@@ -1,0 +1,8 @@
+{
+  "name": "FinAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/isacssw/FinAPI.git",
+  "author": "Isac X <isacssw@gmail.com>",
+  "license": "MIT"
+}
