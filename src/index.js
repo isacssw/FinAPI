@@ -147,6 +147,8 @@ app.put("/account", verifyIfExistsAccountCPF, (req, res) => {
 
 });
 
+// read account data
+
 app.get("/account", verifyIfExistsAccountCPF, (req, res)=>{
     const {customer} = req;
 
